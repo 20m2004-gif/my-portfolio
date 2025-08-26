@@ -1,6 +1,6 @@
 # My Portfolio
 
-このリポジトリは、私が取り組んだR・Python・Web関連の分析・開発プロジェクトをまとめたポートフォリオです。  
+このリポジトリは、私が取り組んだR・Pythonをまとめたポートフォリオです。  
 各プロジェクトの詳細は個別のリポジトリに整理しています
 
 
@@ -25,6 +25,6 @@
 [Python-MeCab2](URL：https://github.com/20m2004-gif/Python-MeCab2.git)
 
 
-## HTML/CSS?JavaScript
+## HTML/CSS/JavaScript
 
 - (今後追加予定）
