@@ -25,7 +25,10 @@
 - 日本語形態素解析と可視化（Python, MeCab）
   [Python-MeCab2](https://github.com/20m2004-gif/Python-MeCab2.git)
 
+## Pythonによるデータ分析
 
+- (今後追加予定：教師あり学習→回帰, 分類、教師なし学習→クラスタリング, 次元削減）
+  
 ## HTML/CSS/JavaScript
 
-- (今後追加予定）
+- (今後追加予定：簡易自己紹介HP、SNSリンク集）
