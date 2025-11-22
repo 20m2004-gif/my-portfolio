@@ -19,7 +19,7 @@
 
 ## Pythonによる自然言語処理
 
-- 日本語テキスト解析（MeCab, Python）
+- 日本語テキスト解析（Python, MeCab）
   [Python-MeCab](https://github.com/20m2004-gif/Python-MeCab.git)
 
 - 日本語形態素解析と可視化（Python, MeCab）
