@@ -31,4 +31,5 @@
   
 ## HTML/CSS/JavaScript
 
-- (今後追加予定：簡易自己紹介HP、SNSリンク集）
+- 簡易自己紹介HP（HTML/CSS, JavaScript（JQuery）
+  [HTML-CSS-JavaScript-JQuery-self-introduction](https://github.com/20m2004-gif/HTML-CSS-JavaScript-JQuery-self-introduction.git)
