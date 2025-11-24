@@ -2,6 +2,7 @@
 
 このリポジトリは、私が取り組んだR・Python、HTML / CSS / JavaScriptをまとめたポートフォリオです。  
 各プロジェクトの詳細は個別のリポジトリに整理しています。
+※今後追加予定と記載のものは、現在、手元にはコードがあり、公開用に整理中です。準備が出来次第、順次追加いたします。
 
 
 ## Rによるデータ分析
@@ -33,5 +34,3 @@
 
 - 簡易自己紹介HP（HTML/CSS, JavaScript（JQuery））
   [HTML-CSS-JavaScript-JQuery-self-introduction](https://github.com/20m2004-gif/HTML-CSS-JavaScript-JQuery-self-introduction.git)
-
-※今後追加予定と記載のものは、現在、手元にはコードがあり、公開用に整理中です。準備が出来次第、順次追加いたします。
