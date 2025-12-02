@@ -26,7 +26,8 @@
 - 日本語形態素解析と可視化（Python, MeCab）
   [Python-MeCab2](https://github.com/20m2004-gif/Python-MeCab2.git)
 
-- 高校野球ノートの感情分析（Python, MeCab, Matplotlib）※公開準備中
+- 高校野球ノートの感情分析（Python, MeCab, Matplotlib）
+  [Python-MeCab-baseballnotebook](https://github.com/20m2004-gif/Python-MeCab-baseballnotebook.git)
 
 ## Pythonによるデータ分析
 
