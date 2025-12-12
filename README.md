@@ -35,7 +35,8 @@
 
 ## Pythonによる画像処理
 
-- [ストライク/ボール判定（YOLOv8, OpenCV）](https://github.com/20m2004-gif/Python-baseball-AI-StrikeCall.git)
+- ストライク/ボール判定（YOLOv8, OpenCV）
+  [Python-baseball-AI-StrikeCall](https://github.com/20m2004-gif/Python-baseball-AI-StrikeCall.git)
   
 ## HTML/CSS/JavaScript
 
