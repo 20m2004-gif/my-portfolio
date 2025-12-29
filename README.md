@@ -10,10 +10,8 @@
 - 決定木によるファッション嗜好と性別の関係分析（R）
   [R-decision-tree](https://github.com/20m2004-gif/R-decision-tree.git)
 
-
 - 血圧データのT検定分析（R）
   [R-T-test](https://github.com/20m2004-gif/R-T-test.git)
-
 
 - 顧客数増加要因の重回帰分析（R）
   [R-Multiple-regression-analysis](https://github.com/20m2004-gif/R-Multiple-regression-analysis.git)
@@ -37,7 +35,11 @@
 
 - ストライク/ボール判定（YOLOv8, OpenCV）
   [Python-baseball-AI-StrikeCall](https://github.com/20m2004-gif/Python-baseball-AI-StrikeCall.git)
-  
+
+## 業務効率化・データ分析システム
+
+- 社内業務ログ管理・分析システム（PHP, SQLite, Power BI）[]
+
 ## HTML/CSS/JavaScript
 
 - 簡易自己紹介HP（HTML/CSS, JavaScript（JQuery））
