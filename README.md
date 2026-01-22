@@ -4,7 +4,7 @@
 各プロジェクトの詳細は個別のリポジトリに整理しています。  
 ※公開準備中と記載のものは、現在、手元にはコードがあり、公開用に整理中です。準備が出来次第、順次追加いたします。
 
-## Pythonによる画像処理
+## Pythonによる画像解析
 
 - ストライク/ボール判定（YOLOv8, OpenCV）
   [Python-baseball-AI-StrikeCall](https://github.com/20m2004-gif/Python-baseball-AI-StrikeCall.git)
