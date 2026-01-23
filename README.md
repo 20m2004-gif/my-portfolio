@@ -13,6 +13,7 @@
 
 - 社内業務ログ管理・分析システム（PHP, SQLite, Power BI）
   [Task-Management-DX](https://github.com/20m2004-gif/Task-Management-DX.git)
+  <img src="README_images/DX.gif" width="800">
 
 ## Pythonによる自然言語処理
 
