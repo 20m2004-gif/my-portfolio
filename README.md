@@ -17,14 +17,15 @@
 
 ## Pythonによる自然言語処理
 
+- 高校野球ノートの感情分析（Python, MeCab, Matplotlib）
+  [Python-MeCab-baseballnotebook](https://github.com/20m2004-gif/Python-MeCab-baseballnotebook.git)
+   <img src="README_images/NLP.gif" width="800">
+
 - 日本語テキスト解析（Python, MeCab）
   [Python-MeCab](https://github.com/20m2004-gif/Python-MeCab.git)
 
 - 日本語形態素解析と可視化（Python, MeCab）
   [Python-MeCab2](https://github.com/20m2004-gif/Python-MeCab2.git)
-
-- 高校野球ノートの感情分析（Python, MeCab, Matplotlib）
-  [Python-MeCab-baseballnotebook](https://github.com/20m2004-gif/Python-MeCab-baseballnotebook.git)
 
 ## Rによるデータ分析
 
