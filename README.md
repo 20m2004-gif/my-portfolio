@@ -8,6 +8,7 @@
 
 - ストライク/ボール判定（YOLOv8, OpenCV）
   [Python-baseball-AI-StrikeCall](https://github.com/20m2004-gif/Python-baseball-AI-StrikeCall.git)
+    <img src="README_images/CV.gif" width="800">
 
 ## 業務効率化・データ分析システム
 
